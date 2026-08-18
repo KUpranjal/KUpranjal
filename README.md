@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kushwaha</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate QA Tester / FullStack developer from India</h3>
 <img align="right" alt="coding" width="400" src="68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a473853574149555337 (1).gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kupranjal&label=Profile%20views&color=0e75b6&style=flat" alt="kupranjal" /> </p>
 
